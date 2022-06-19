@@ -1,2 +1,15 @@
-# laboratory-work
-A model of a few error correcting codes: Hamming (15,11) and (7,4), Fink's (convolutional) code with G = [10,11] and convolutional code with G = [101,111]
+
+A model of a few error correcting codes: Hamming (15,11) and (7,4), Fink's (convolutional) code with G = [10,11] and convolutional code with G = [101,111] with a GUI ( in Russian only)
+designed to study the processes occurring during coding and decoding of error-correcting codes
+
+Программа представляет собой модель кодов Хэмминга (15,11) и (7,4), свёрточных кодов с порождающими матрицами G = [10,11] и G = [101,111] с графическим интерфейсом
+предназначена для исследования процессов, происходящих при кодировании и декодировании помехоустойчивых кодов
+
+Фактически законченная и работающая версия, но идеал не достигнут. Можно было бы добавить ещё:
+- новые кодеры/декодеры
+- почистить существующий
+- добавить комментарии
+- переписать некоторые модули программы (кодеры и декодеры) на компилируемом языке с целью улучшения производительности
+- новые элементы в интерфейсе (например: поля отображения процессов при кодировании/декодировании)
+- перевод на другие языки
+
