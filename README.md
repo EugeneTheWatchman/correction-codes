@@ -1,4 +1,3 @@
-
 A model of a few error correcting codes: Hamming (15,11) and (7,4), Fink's (convolutional) code with G = [10,11] and convolutional code with G = [101,111] with a GUI ( in Russian only) 
 designed to study the processes occurring during coding and decoding of error-correcting codes
 
@@ -13,3 +12,7 @@ designed to study the processes occurring during coding and decoding of error-co
 - новые элементы в интерфейсе (например: поля отображения процессов при кодировании/декодировании)
 - перевод на другие языки
 
+
+# PyQt5 v=5.15.6
+# Python v=3.10.2
+# numpy v=1.22.3
